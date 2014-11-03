@@ -1,0 +1,3 @@
+[submodule "adafruit-sensor"]
+	path = Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
